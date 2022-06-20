@@ -18,3 +18,5 @@ namespace DisableTskManager
 
     }
 }
+
+// stosunek płciowy
